@@ -2,6 +2,6 @@ Flask==2.0.1
 Flask-Cors==3.0.10
 Flask-SocketIO==5.1.0
 numpy
-opencv-python==4.5.2.54
+opencv-contrib-python-headless
 Pillow==8.2.0
 Gunicorn
