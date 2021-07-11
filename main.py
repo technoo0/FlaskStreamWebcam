@@ -43,4 +43,3 @@ def image(data_image):
     emit('response_back', stringData)
 
 
-cv2.destroyAllWindows() 
