@@ -1,3 +1,3 @@
-from FlaskLiveVideo.main import app
+from FlaskStreamWebcam.main import app
 if __name__ == "__main__":
   app.run()
