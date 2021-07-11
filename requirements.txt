@@ -1,6 +1,6 @@
 Flask==2.0.1
 Flask-Cors==3.0.10
 Flask-SocketIO==5.1.0
-numpy @ file:///C:/ci/numpy_and_numpy_base_1620833114945/work
+numpy
 opencv-python==4.5.2.54
 Pillow==8.2.0
