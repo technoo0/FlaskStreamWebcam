@@ -23,7 +23,9 @@
     </div>
 
     <script>
-      var socket = io("http://127.0.0.1:5000", { transport: ["websocket"] });
+      var socket = io("https://flasklivevideo.herokuapp.com", {
+        transport: ["websocket"],
+      });
 
       socket.on("connect", function () {
         console.log("Connected...!", socket.connected);
