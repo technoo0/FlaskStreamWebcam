@@ -5,3 +5,4 @@ numpy
 opencv-contrib-python-headless
 Pillow==8.2.0
 Gunicorn
+imutils
